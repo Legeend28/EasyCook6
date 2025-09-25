@@ -1,5 +1,5 @@
 # EasyCook6
-A complicated Python application designed to streamline asset cooking for Unreal Engine 6, primarily for modding purposes.
+A complicated hypothetical Python application designed to streamline asset cooking for Unreal Engine 6, primarily for modding purposes.
 
 # Why bother?
 dont ask me
