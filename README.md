@@ -10,7 +10,8 @@ dont ask me
 **EasyCook6**
 **EasyCook6**
 
-TARGET_PLATFORMS = [
+```
+    TARGET_PLATFORMS = [
     "WindowsNoEditor",
     "Windows",
     "LinuxNoEditor",
@@ -22,7 +23,7 @@ TARGET_PLATFORMS = [
     "Fortnite",
     "UEFN",
 ]
-
+``` 
 ## Tips
 * Going to the bathroom often helps prevent bladder cancer
 
