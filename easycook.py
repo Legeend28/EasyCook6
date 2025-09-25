@@ -12,8 +12,8 @@ from tkinter import ttk, filedialog, messagebox
 from tkinter.scrolledtext import ScrolledText
 from datetime import datetime
 
-APP_TITLE = "Easy Cook"
-APP_VERSION = "1.2.1"
+APP_TITLE = "Easy Cook for Unreal Engine 6"
+APP_VERSION = "6.0.0
 
 # Default profile directory (same folder as this script)
 SCRIPT_DIR = Path(sys.argv[0]).resolve().parent
@@ -28,6 +28,8 @@ TARGET_PLATFORMS = [
     "IOS",
     "MacNoEditor",
     "Mac",
+    "Fortnite",
+    "UEFN",
 ]
 
 # Regex to extract a package path from Unreal object reference or raw path
