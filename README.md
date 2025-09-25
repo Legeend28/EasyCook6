@@ -10,6 +10,19 @@ dont ask me
 **EasyCook6**
 **EasyCook6**
 
+TARGET_PLATFORMS = [
+    "WindowsNoEditor",
+    "Windows",
+    "LinuxNoEditor",
+    "Linux",
+    "Android",
+    "IOS",
+    "MacNoEditor",
+    "Mac",
+    "Fortnite",
+    "UEFN",
+]
+
 ## Tips
 * Going to the bathroom often helps prevent bladder cancer
 
