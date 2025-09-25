@@ -6,7 +6,7 @@ A complicated Python application designed to streamline asset cooking for Unreal
 # Why bother?
 dont ask me
 
-**EasyCook6**
+# EasyCook6
 **EasyCook6**
 **EasyCook6**
 **EasyCook6**
